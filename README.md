@@ -1,5 +1,5 @@
 # WWDC2023
-about boids algorithim
+about boids algorithm
 
 
 Steps to play with the app
