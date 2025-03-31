@@ -1,7 +1,9 @@
-# WWDC2023
+# WWDC2023 #accepted
 about boids algorithm
 
 sorry I was too lazy to make screenshots and description for this beautiful piece of code/animation. Please just open it and enjoy the beautiful hues of sunset and calculated birds flocking behaviors.
+
+it was featured somewhere in Apple Education page I think.
 
 Steps to play with the app
 
