@@ -1,4 +1,6 @@
-# WWDC2023 #accepted
+# WWDC2023 
+
+[accepted]
 about boids algorithm
 
 sorry I was too lazy to make screenshots and description for this beautiful piece of code/animation. Please just open it and enjoy the beautiful hues of sunset and calculated birds flocking behaviors.
